@@ -1,6 +1,6 @@
 # myandemy.ai Terms of Service
 
-Last Updated: February 24, 2026
+Last Updated: April 13, 2026
 
 ## Article 1 (Scope of Application)
 
@@ -109,6 +109,13 @@ The Company may restrict all or part of a user's access to the Service or delete
 5. No use of the Service for a specified period (generally one year or more) since the last use
 6. Determination by the Company that the user is an anti-social force, or is involved in cooperation or engagement with anti-social forces through financial contributions or other means
 7. Any other determination by the Company that the user's use of the Service is inappropriate
+
+## Article 12-2 (User-Initiated Account Deletion)
+
+1. Users may request account deletion from the account settings screen in the app.
+2. Once deletion is processed, access to the account and core account-linked data is expected to be unavailable in normal operation.
+3. Certain records may be retained for a limited period where required for legal compliance, security operations, dispute handling, or backup procedures.
+4. If users have an active subscription purchased through App Store or Google Play, they must cancel the subscription separately through the relevant platform settings.
 
 ## Article 13 (Changes to These Terms)
 

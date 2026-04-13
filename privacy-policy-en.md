@@ -1,6 +1,6 @@
 # myandemy.ai Privacy Policy
 
-Last Updated: February 24, 2026
+Last Updated: April 13, 2026
 
 Myandemy Japan Inc. ("we," "us," or "our") operates myandemy.ai (the "Service"). This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use our Service.
 
@@ -22,7 +22,8 @@ We are committed to protecting your privacy and complying with applicable data p
 
 3. **AI Tutor Input Data**
    - Text data entered when using the AI Tutor feature
-   - Voice data submitted when using the AI Tutor feature
+   - Image attachments submitted to the AI Tutor feature (optional)
+   - Voice input data may be collected only when voice-based features are explicitly enabled in a future build
 
 4. **Support Inquiries**
    - Content of your inquiries
@@ -70,7 +71,7 @@ Our AI Tutor feature is powered by Google Gemini API, provided by Google LLC.
 
 ### 3.1 Data Sent to Google
 
-When you use the AI Tutor feature, the text and voice data you input are sent to Google's servers to generate AI-powered responses.
+When you use the AI Tutor feature, the text and image data you input are sent to Google's servers to generate AI-powered responses. Voice data is sent only if voice-based features are available and used.
 
 ### 3.2 How Google Handles Your Data
 
@@ -109,7 +110,7 @@ We use the following third-party services in the operation of our Service:
 2. **Google Gemini API (AI Tutor)**
    - Provider: Google LLC
    - Purpose: Providing the AI Tutor feature
-   - Data sent: Text and voice data entered by users
+   - Data sent: Text and image data entered by users (voice data only when voice features are enabled)
    - Privacy Policy: https://policies.google.com/privacy
 
 3. **Google Analytics (Usage Analytics)**
@@ -158,7 +159,7 @@ We retain your personal information only for as long as necessary to fulfill the
 
 Where retention is required by law, we will retain information for the legally required period.
 
-Upon account deletion, all personal information associated with your account will be **permanently deleted within 30 days**, except where retention is required by law.
+When account deletion is completed in the app, the account is processed for deletion immediately. Because of legal requirements and backup/operational retention, some records may remain for a limited period before final purge.
 
 ## 9. Your Rights
 
@@ -174,7 +175,7 @@ To exercise any of these rights, please contact us using the information provide
 
 ### 9.1 Account Deletion
 
-You may delete your account at any time through the account settings screen within the app.
+You may delete your account at any time through the account settings screen within the app. Account deletion is intended to be irreversible in normal operation.
 
 ## 10. Rights of EEA and UK Residents (GDPR)
 
