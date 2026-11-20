@@ -1,6 +1,6 @@
 # myandemy.ai Privacy Policy
 
-Last Updated: February 24, 2026
+Last Updated: November 20, 2026
 
 Myandemy Japan Inc. ("we," "us," or "our") operates myandemy.ai (the "Service"). This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use our Service.
 
@@ -83,11 +83,31 @@ When you use the AI Tutor feature, the text and voice data you input are sent to
 - Do not input sensitive information such as passwords, credit card numbers, or government-issued identification numbers into the AI Tutor.
 - AI Tutor responses are automatically generated and their accuracy is not guaranteed.
 
+### 3.4 Who Can See Your AI Tutor Conversations
+
+Your AI Tutor conversations include the messages you send, files and images you attach, and the title of each conversation, which is taken from your first message.
+
+- **You** can see your own conversations in the app.
+- **Organizations you join** (such as your school or company) cannot see the content of your conversations, including their titles. Their administrators may see aggregate usage only, such as the number of conversations and messages.
+- **Myandemy staff** can access conversation content only when necessary to respond to your support request, investigate security incidents or misuse, or fix problems in the Service. Access is limited to authorized staff.
+
 ## 4. Disclosure to Third Parties
 
 We do not sell your personal information to third parties.
 
-We do not share your personal information with third parties except in the following circumstances:
+### 4.1 Organizations You Join
+
+You can join an organization (such as a school or company) in the Service, for example by entering an organization code or accepting an invitation. When you do, administrators of that organization can see the following information about you, to the extent their role in the organization allows:
+
+- Profile information (such as your name, email address, and the information in your profile)
+- Learning history, progress, and results
+- Event registrations and attendance
+
+They cannot see the content of your AI Tutor conversations (see Section 3.4). When you leave an organization, its administrators no longer have access to this information through the Service.
+
+### 4.2 Other Disclosure
+
+Apart from organizations you join (Section 4.1), we do not share your personal information with third parties except in the following circumstances:
 
 1. When required by law
 2. When necessary to protect the life, body, or property of an individual, and it is difficult to obtain consent
@@ -139,7 +159,7 @@ We implement the following security measures to protect your personal informatio
 
 1. **Encryption in Transit**: All communications use SSL/TLS encryption.
 2. **Encryption at Rest**: Passwords are hashed before storage. Data stored in our database is encrypted.
-3. **Access Control**: Supabase Row Level Security (RLS) ensures that users can only access their own data.
+3. **Access Control**: Supabase Row Level Security (RLS) ensures that users can only access their own data, and that organization administrators can access only the information described in Section 4.1 about members of their own organization.
 4. **Infrastructure**: Our database platform, Supabase, operates on AWS's secure infrastructure.
 5. **Intrusion Prevention**: We use firewalls and intrusion detection systems.
 6. **Organizational Measures**: We have appointed a data protection officer and established internal data handling policies.
